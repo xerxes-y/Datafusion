@@ -39,8 +39,8 @@ This project implements a scalable data processing pipeline that:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/datafusion-processor.git
-   cd datafusion-processor
+   git clone https://github.com/xerxes-y/Datafusion.git
+   cd Datafusion
    ```
 
 2. Start the services:
